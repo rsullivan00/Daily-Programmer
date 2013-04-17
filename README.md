@@ -1,0 +1,1 @@
+The subreddit reddit.com/r/dailyprogrammer posts challenges periodically every week. Here are the solutions to the ones I have completed/attempted. The more recent ones (higher-numbered challenges) are used as tools to teach myself Python and brush up on C++. 
